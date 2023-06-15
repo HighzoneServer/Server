@@ -1,0 +1,33 @@
+{
+  "Ad_Priority" : "1",
+  "Custom_Ad_Download_link" : [ "com.hash.bat.hero.game", 
+                               "com.zgg.robot.transformation.game", 
+                               "com.zgg.robot.transformation.game",
+                              "com.zgg.robot.transformation.game", 
+                               "com.hash.bat.hero.game"],
+  
+    "Custom_Icon_Ad_Download_link" : [ "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.alpha.spider.rope.hero.man.games", 
+                               "com.incredible.hulk.green.monster.superhero.games",
+                              "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.alpha.spider.rope.hero.man.games"],
+  
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/jhLqwkXMNjRmRc9uAbqTyMtpWzsSoY614FF9egfz2Th9A2tqxUzhwSB2LYCsAmiSRg=s180", 
+                           "https://play-lh.googleusercontent.com/mU_To0YQyMQqXRsrE38BNVSUBADcWPCFLauJ0fslkFuovxtH77jWt8gpK9JsQIT5zA=s360", 
+                           "https://play-lh.googleusercontent.com/tUHy6FeF6UrZjwfFpB2kOXWiXiFpUTsLEBHhDDwDLfhdG6pkmMpd2mGZTn23tOQZYMo=s360",
+                           "https://play-lh.googleusercontent.com/27KVVNpIUK9JbBJHEn_h3NNuzEMqe7Tlc8ehhZvkEyl-iz0FLTBomhFJEDndZrfTjA=s360", 
+                           "https://play-lh.googleusercontent.com/gWyiaLkWgtHtGZ9I0ilyfZqU52Yd3BVYJ7RQt19nWqElh22C5dXW5B126fGy-IXchEc=s360" ],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/ClEJ9I990kyujTPkgXKalTWLiZ8hHziRjmOHvMb5sdozshQKygvxTrehPtoIEHmzDiw=w2560-h1440", 
+                                 "https://play-lh.googleusercontent.com/UtS260Gak2yfqJ99gLxAlvX037KWdRnZnwbLpsmeYNEAD4IVKVsGxDYBkxtxXjIlbg=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/UtS260Gak2yfqJ99gLxAlvX037KWdRnZnwbLpsmeYNEAD4IVKVsGxDYBkxtxXjIlbg=w526-h296",
+                                 "https://play-lh.googleusercontent.com/UtS260Gak2yfqJ99gLxAlvX037KWdRnZnwbLpsmeYNEAD4IVKVsGxDYBkxtxXjIlbg=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/cSo1RtoFhlSI9JNRJuXSPI2q0jTfo97WhzwsvO56TOY1JOdA2oY0v5Wt6HZ3u6XYai0=w526-h296"],
+  "Indetifier_ID" : "com.hzg.iron.hero.game",
+  "Start_Showing_Ads" : true,
+  "showCP" : true,
+  "doubleBanner" : false,
+  "hideInterstitials" : false,
+  "interstitial_Flow" : 0,
+  "showAppOpen" : false
+}
